@@ -2,3 +2,4 @@
 ./cifar contains experiment code under cifar-10.
 ./mnist contains experiment code under mnist.
 Our code is implemented under pytorch 1.7.0. 
+Pretrained models can be downloaded at https://drive.google.com/drive/folders/1MApMH172Ako3_9UE_ZQWWMPQIHfzpyZ1?usp=sharing.
