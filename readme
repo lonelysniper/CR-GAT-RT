@@ -1,0 +1,4 @@
+./CR-GAT-RT contains experiment code under segmentation problems.
+./cifar contains experiment code under cifar-10.
+./mnist contains experiment code under mnist.
+Our code is implemented under pytorch 1.7.0. 
